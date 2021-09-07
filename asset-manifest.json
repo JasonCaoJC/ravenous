@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JasonCaoJC/ravenous/static/css/main.7049deb3.chunk.css",
+    "main.js": "/JasonCaoJC/ravenous/static/js/main.d527e098.chunk.js",
+    "main.js.map": "/JasonCaoJC/ravenous/static/js/main.d527e098.chunk.js.map",
+    "runtime-main.js": "/JasonCaoJC/ravenous/static/js/runtime-main.9a0acd5d.js",
+    "runtime-main.js.map": "/JasonCaoJC/ravenous/static/js/runtime-main.9a0acd5d.js.map",
+    "static/js/2.a229e390.chunk.js": "/JasonCaoJC/ravenous/static/js/2.a229e390.chunk.js",
+    "static/js/2.a229e390.chunk.js.map": "/JasonCaoJC/ravenous/static/js/2.a229e390.chunk.js.map",
+    "static/js/3.396511f4.chunk.js": "/JasonCaoJC/ravenous/static/js/3.396511f4.chunk.js",
+    "static/js/3.396511f4.chunk.js.map": "/JasonCaoJC/ravenous/static/js/3.396511f4.chunk.js.map",
+    "index.html": "/JasonCaoJC/ravenous/index.html",
+    "static/css/main.7049deb3.chunk.css.map": "/JasonCaoJC/ravenous/static/css/main.7049deb3.chunk.css.map",
+    "static/js/2.a229e390.chunk.js.LICENSE.txt": "/JasonCaoJC/ravenous/static/js/2.a229e390.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/JasonCaoJC/ravenous/static/media/background_search_mobile.a6f8ee50.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0acd5d.js",
+    "static/js/2.a229e390.chunk.js",
+    "static/css/main.7049deb3.chunk.css",
+    "static/js/main.d527e098.chunk.js"
+  ]
+}
